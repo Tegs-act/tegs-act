@@ -12,8 +12,6 @@ My main aim is to educate and inspire you
   
 - 💬 Ask me about Networking or Cybersecurity
 - 
-- 📫 How to reach me: ...
-- 
-- 😄 Pronouns: ...
+- 📫 How to reach me: LinkedIn and X
 - 
 - ⚡ Fun fact: I love singing and i serve in the media team in my church
