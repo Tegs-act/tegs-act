@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Tegs-act/tegs-act** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tega Akperiojire and I love Networking and security with a little sprinkle on blockchain for now
 
-Here are some ideas to get you started:
+This page is dedicated to building solid lab scenarios to showcase my learning journey and labs configured .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+My main aim is to educate and inspire you 
+
+- 🔭 I’m currently working towards my CCNA so most labs would be networking related
+- 
+- 👯 I’m looking to collaborate on labs as i believe in team wrok and helping others learn through collaborative efforts
+  
+- 💬 Ask me about Networking or Cybersecurity
+- 
 - 📫 How to reach me: ...
+- 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+- ⚡ Fun fact: I love singing and i serve in the media team in my church
