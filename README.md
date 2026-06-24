@@ -42,7 +42,7 @@ Currently working as SOC Tier 1 Analayst, building expertise in Security Operati
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications.
 
 <div>
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
