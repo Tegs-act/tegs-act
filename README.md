@@ -1,8 +1,6 @@
 # Hello, I'm Tega Akperiojire
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Curious about technology and passionate about cybersecurity, I am currently building expertise as a Security Analyst. I enjoy continuous learning, sharing knowledge, and contributing to a stronger cybersecurity community, with a long-term goal of advancing into AI Security.
 
 ## Objective
@@ -22,14 +20,13 @@ Currently working as SOC Tier 1 Analayst, building expertise in Security Operati
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-   x
+   
 </div>
 
 ### Endpoint
