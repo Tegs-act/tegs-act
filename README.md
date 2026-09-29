@@ -1,11 +1,9 @@
 # Hello, I'm Tega Akperiojire
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a cybersecurity professional with experience in security operations and cyber threat intelligence, driven by curiosity and a constant desire to learn.
+I’m a cybersecurity professional with experience in security operations and cyber threat intelligence, driven by curiosity and a constant desire to learn. I enjoy solving security problems, getting hands-on with technology, and sharing what I learn with others. 
 
-I enjoy solving security problems, getting hands-on with technology, and sharing what I learn with others. I’m currently deepening my skills across offensive and defensive security, with a growing focus on AI Security and the security of AI-driven systems.
-
-For me, it’s about staying curious, building practical skills, and continuously pursuing excellence.
+I’m currently deepening my skills across offensive and defensive security, with a growing focus on AI Security and the security of AI-driven systems. For me, it’s about staying curious, building practical skills, and continuously pursuing excellence.
 
 
 ## Objective
