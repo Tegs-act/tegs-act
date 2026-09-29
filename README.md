@@ -15,23 +15,8 @@ SOC Tier 1 Analyst building hands-on expertise in security operations, with a fo
 | AI-Security (In Progress)             | <a href="https://github.com/Tegs-act/AI-Security-Project-crestlineai">CrestlineAssist </a>
 | SIEM Management and Integration       | <a href="https://github.com/Tegs-act/Wazuh-Security-Monitoring-and-Slack-Integration">Wazuh Lab</a>
  
-## Tools
+## Security Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-   
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
 <div>
   <img src="https://img.shields.io/badge/-Rapid7-0052CC?&style=for-the-badge&logo=rapid7&logoColor=white" />
   <img src="https://img.shields.io/badge/-SentinelOne-6001D2?&style=for-the-badge&logo=sentinelone&logoColor=white" />
@@ -50,6 +35,9 @@ SOC Tier 1 Analyst building hands-on expertise in security operations, with a fo
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-HCIA%20Security%20V4.0-C70039?&style=for-the-badge&logo=Huawei&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-005A9C?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTB%20CPTS%20(In%20View)-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/-THM%20AI%20Security-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCM%20AI%20100-E4572E?&style=for-the-badge" />
 </div>
 
 ## Projects
