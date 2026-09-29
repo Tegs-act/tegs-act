@@ -15,7 +15,7 @@ This space is specifically created to build real world projects cause I have dis
 
 | Skill                                 | Associated Project         |
 |---------------------------------------|----------------------------|
-| AI-Security (In Progress)             | <a href="https://github.com/Tegs-act/AI-Security-Project-crestlineai">CrestlineAssist </a>
+| Automated LLM Red-Team & Security Regression Lab  (In Progress)             | <a href="https://github.com/Tegs-act/AI-Security-Project-crestlineai">CrestlineAssist </a>
 | SIEM Management and Integration       | <a href="https://github.com/Tegs-act/Wazuh-Security-Monitoring-and-Slack-Integration">Wazuh Lab</a>
  
 ## Security Tools
@@ -61,5 +61,5 @@ Gaming: <img src="https://img.shields.io/badge/-FIFA%20on%20PS5-003791?&style=fo
 Movies: <img src="https://img.shields.io/badge/-Good%20Movies-E50914?&style=for-the-badge&logo=letterboxd&logoColor=white" />
 
 ## Projects
-- LLM Security
+- Automated LLM Red-Team & Security Regression Lab
 - SOC Automation Project
