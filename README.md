@@ -10,7 +10,7 @@ For me, it’s about staying curious, building practical skills, and continuousl
 
 ## Objective
 
-SOC Tier 1 Analyst building hands-on expertise in security operations, with a focus on AI Security. I'm developing strong offensive and defensive skills so I can build proactive defenses that help counter emerging threats.
+This space is specifically created to help build real world projects as I have discovered that the best way to learn is to drop myself deep into the waters of projects; building labs and breaking things.I’m now using better hardware resources to take on more ambitious, resource-intensive projects and grow through practical experience.
 
 ## Skills
 #still building this section would be ready soon
