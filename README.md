@@ -12,7 +12,7 @@ Currently working as SOC Tier 1 Analayst, building expertise in Security Operati
 
 | Skill                 | Associated Project         |
 |-----------------------|----------------------------|
-| AI-Security           | <a href="https://github.com/Tegs-act/AI-Security-Project-crestlineai">CrestlineAssist </a>| <img src="https://img.shields.io/badge/Zeek_(In_Progress)-2ea44f?style=for-the-badge&logo=zeek&logoColor=white" />
+| AI-Security           | <a href="https://github.com/Tegs-act/AI-Security-Project-crestlineai">CrestlineAssist </a>|<div> <img src="https://img.shields.io/badge/Zeek_(In_Progress)-2ea44f?style=for-the-badge&logo=zeek&logoColor=white"/> </div>
 | SIEM Management and Integration | <a href="https://github.com/Tegs-act/Wazuh-Security-Monitoring-and-Slack-Integration">Wazuh Lab</a>| <img src="https://img.shields.io/badge/Zeek_(In_Progress)-2ea44f?style=for-the-badge&logo=zeek&logoColor=white" />
  
 ## Tools
