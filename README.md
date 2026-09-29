@@ -17,6 +17,12 @@ This space is specifically created to build real world projects cause I have dis
 |---------------------------------------|----------------------------|
 | Automated LLM Red-Team & Security Regression Lab  (In Progress)             | <a href="https://github.com/Tegs-act/AI-Security-Project-crestlineai">CrestlineAssist </a>
 | SIEM Management and Integration       | <a href="https://github.com/Tegs-act/Wazuh-Security-Monitoring-and-Slack-Integration">Wazuh Lab</a>
+
+## Research & Learning Interests
+<img src="https://img.shields.io/badge/-AI%20Security-6E40C9?&style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-Offensive%20Security-D32F2F?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bug%20Bounty-9FEF00?&style=for-the-badge&logo=hackerone&logoColor=black" />
+<img src="https://img.shields.io/badge/-Threat%20Intelligence-0F766E?&style=for-the-badge&logo=mitre&logoColor=white" />
  
 ## Security Tools
 
