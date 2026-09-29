@@ -1,7 +1,12 @@
 # Hello, I'm Tega Akperiojire
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Curious about technology and passionate about cybersecurity, I am currently building expertise as a Security Analyst. I enjoy continuous learning, sharing knowledge, and contributing to a stronger cybersecurity community, with a long-term goal of advancing into AI Security.
+I’m a cybersecurity professional with experience in security operations and cyber threat intelligence, driven by curiosity and a constant desire to learn.
+
+I enjoy solving security problems, getting hands-on with technology, and sharing what I learn with others. I’m currently deepening my skills across offensive and defensive security, with a growing focus on AI Security and the security of AI-driven systems.
+
+For me, it’s about staying curious, building practical skills, and continuously pursuing excellence.
+
 
 ## Objective
 
@@ -18,6 +23,7 @@ SOC Tier 1 Analyst building hands-on expertise in security operations, with a fo
 ## Security Tools
 
 <div>
+  <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rapid7-0052CC?&style=for-the-badge&logo=rapid7&logoColor=white" />
   <img src="https://img.shields.io/badge/-SentinelOne-6001D2?&style=for-the-badge&logo=sentinelone&logoColor=white" />
   <img src="https://img.shields.io/badge/-Resecurity-1E3A8A?&style=for-the-badge" />
@@ -32,10 +38,10 @@ SOC Tier 1 Analyst building hands-on expertise in security operations, with a fo
 ## Certifications.
 
 <div>
+<img src="https://img.shields.io/badge/-HTB%20CPTS%20(In%20View)-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" />
 <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-HCIA%20Security%20V4.0-C70039?&style=for-the-badge&logo=Huawei&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-005A9C?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTB%20CPTS%20(In%20View)-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black" />
 <img src="https://img.shields.io/badge/-THM%20AI%20Security-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 <img src="https://img.shields.io/badge/-TCM%20AI%20100-E4572E?&style=for-the-badge" />
 </div>
