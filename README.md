@@ -10,7 +10,7 @@ For me, it’s about staying curious, building practical skills, and continuousl
 
 ## Objective
 
-This space is specifically created to help build real world projects as I have discovered that the best way to learn is to drop myself deep into the waters of projects; building labs and breaking things.I’m now using better hardware resources to take on more ambitious, resource-intensive projects and grow through practical experience.
+This space is specifically created to build real world projects cause I have discovered that the best way to learn is to drop myself deep into the waters of projects; building labs and breaking things.I’m now using better hardware resources to take on more ambitious, resource-intensive projects and grow through practical experience.
 
 ## Skills
 #still building this section would be ready soon
@@ -55,6 +55,12 @@ TikTok: <a href="https://t.co/Da44YgiAaK"><img src="https://img.shields.io/badge
 Medium: <a href="https://cyberwithtega.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
 Gmail: <a href="mailto:cyber.with.tega@gmail.com"><img src="https://img.shields.io/badge/Gmail-cyber.with.tega@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+## 🎮 Hobbies
+Chess: <img src="https://img.shields.io/badge/-Chess-769656?&style=for-the-badge&logo=chessdotcom&logoColor=white" /><br>
+Design: <a href="YOUR_GOOGLE_DRIVE_LINK"><img src="https://img.shields.io/badge/-Canva%20Designs-00C4CC?&style=for-the-badge&logo=canva&logoColor=white" /></a><br>
+Gaming: <img src="https://img.shields.io/badge/-FIFA%20on%20PS5-003791?&style=for-the-badge&logo=playstation&logoColor=white" /><br>
+Movies: <img src="https://img.shields.io/badge/-Good%20Movies-E50914?&style=for-the-badge&logo=letterboxd&logoColor=white" />
 
 ## Projects
 - LLM Security
