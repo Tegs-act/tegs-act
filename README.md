@@ -5,7 +5,7 @@ Curious about technology and passionate about cybersecurity, I am currently buil
 
 ## Objective
 
-Currently working as SOC Tier 1 Analayst, building expertise in Security Operations while working toward a future in AI Security, where i have solid offensive and defensive skills for proactive defenses can help combat emerging threats.
+SOC Tier 1 Analyst building hands-on expertise in security operations, with a focus on AI Security. I'm developing strong offensive and defensive skills so I can build proactive defenses that help counter emerging threats.
 
 ## Skills
 #still building this section would be ready soon
@@ -33,9 +33,15 @@ Currently working as SOC Tier 1 Analayst, building expertise in Security Operati
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rapid7-0052CC?&style=for-the-badge&logo=rapid7&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SentinelOne-6001D2?&style=for-the-badge&logo=sentinelone&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Resecurity-1E3A8A?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CrowdStrike-FC0000?&style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netskope-0095D9?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-00C1DE?&style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
 
 ## Certifications.
