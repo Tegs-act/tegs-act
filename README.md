@@ -46,6 +46,15 @@ This space is specifically created to help build real world projects as I have d
 <img src="https://img.shields.io/badge/-TCM%20AI%20100-E4572E?&style=for-the-badge" />
 </div>
 
+## Connect with me .
+
+<div>
+Twitter: <a href="https://www.linkedin.com/in/akperiojire-tega/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=x&logoColor=white" /></a><br>
+LinkedIn: <a href="https://twitter.com/cyber_with_tega"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+TikTok: <a href="https://t.co/Da44YgiAaK"><img src="https://img.shields.io/badge/-TikTok-000000?&style=for-the-badge&logo=tiktok&logoColor=white" /></a><br>
+Medium: <a href="https://cyberwithtega.medium.com/"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</div>
+
 ## Projects
 - LLM Security
 - SOC Automation Project
