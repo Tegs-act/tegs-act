@@ -10,15 +10,11 @@ Currently working as SOC Tier 1 Analayst, building expertise in Security Operati
 ## Skills
 #still building this section would be ready soon
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| AI-Security                                   | <a href="https://github.com/Tegs-act/AI-Security-Project-crestlineai">CrestlineAssist </a>|
-| File Integrity Monitoring                     | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Skill                 | Associated Project         |
+|-----------------------|----------------------------|
+| AI-Security           | <a href="https://github.com/Tegs-act/AI-Security-Project-crestlineai">CrestlineAssist </a>| <img src="https://img.shields.io/badge/Zeek_(In_Progress)-2ea44f?style=for-the-badge&logo=zeek&logoColor=white" />
+| SIEM Management and Integration | <a href="https://github.com/Tegs-act/Wazuh-Security-Monitoring-and-Slack-Integration">Wazuh Lab</a>| <img src="https://img.shields.io/badge/Zeek_(In_Progress)-2ea44f?style=for-the-badge&logo=zeek&logoColor=white" />
+ 
 ## Tools
 
 ### Network
@@ -51,5 +47,5 @@ Currently working as SOC Tier 1 Analayst, building expertise in Security Operati
 </div>
 
 ## Projects
-- Detection Lab
+- LLM Security
 - SOC Automation Project
